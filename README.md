@@ -4,21 +4,19 @@
 #### I'm a mechanical engineering student in Burlington, Vermont.
 
 - 🏢 I'm currently working full-time as a co-op intern at **Husky Technologies**
-- 💜 Interests: Robotics, 3D Printing, CAD Design, Arduino Project; Cooking, Snowboarding, Acrylics Painting
-- ⚙️ I use `Python Jupyter Notebook`,`G.code`,`Arduino IDE`,`MATLAB`.
+- 💜 Interests: Robotics, 3D Printing, CAD Design, Arduino Projects
+- ⚙️ I use `Python(Jupyter Notebook)`,`Arduino IDE`,`MATLAB`,`G.code`
 - 💅 Active community member of: **Generator Makerspace (January-July 2023)**
-- 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
-- 💬 Ping me about: **wed design**, **social media**, **diversity & inclusion**, **mentorship**, **Beyonce**
-- 📫 Reach me asap: <a href="https://twitter.com/millycodes/">Twitter</a> or Millycodes@gmail.com
-- 😄 Passionate about accessibility and committed to a web that works for everyone
+- 🌱 Learning more about and studying: **Injection Molding, Robotics Algorithm, Quantum Dots Related**
+- 💬 Ping me about: **engineering design**, **women in STEM**, 
+- 📫 Reach me asap: wanghaohui4@gmail.com
+- 😄 Passionate about Human Centric Design
 - 🌍 Language: English and Chinese
 #### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/millycodes/">LinkedIn</a>
-- 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/millyfeet">Spotify</a>
-- 🌐 Updating my personal website with examples of my work on <a href="https://millycodes.com">MillyCodes.com</a>
-- 🐦 Tweeting about Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/millycodes/">Twitter</a>
+- 💼 Connecting and sharing professional updates on <a href="linkedin.com/in/helenwanghh">LinkedIn</a>
+
 
 
 ---
 
-⭐️ From [MillyCodes](https://github.com/MillyCodes)
+⭐️ From [Helen Wang](github.com/helenwanghh)
