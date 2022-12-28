@@ -1,6 +1,6 @@
 ### Hi, I'm Helen Wang 👋
 ---
-<img align="right" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
+
 #### I'm a mechanical engineering student in Burlington, Vermont.
 
 - 🏢 I'm currently working full-time as a co-op intern at **Husky Technologies**
@@ -18,7 +18,7 @@
 
 
 
-
+<img align="center" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 
 
 
