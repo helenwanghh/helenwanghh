@@ -1,16 +1,16 @@
-### Hi, I'm Helen Wang 👋
+### Hello, I'm Helen Wang 👋
 ---
 
 #### I'm a mechanical engineering student in Burlington, Vermont.
 
 - 🏢 I'm currently working full-time as a co-op intern at **Husky Technologies**
-- 💜 Interests: Robotics, 3D Printing, CAD Design, Arduino Projects
+- 💜 Interests: 3D Printing, CAD Design, Arduino Projects, Robotics
 - ⚙️ I use `Python(Jupyter Notebook)`,`Arduino IDE`,`MATLAB`,`G.code`
 - 💅 Active community member of: **Generator Makerspace (January-July 2023)**
-- 🌱 Learning more about and studying: **Injection Molding, Robotics Algorithm, Quantum Dots Related**
+- 🌱 Learning more about and studying: **Injection Molding, Robotics Algorithm, Quantum Dots Related Study**
 - 💬 Ping me about: **engineering design**, **women in STEM**, 
 - 📫 Reach me asap: wanghaohui4@gmail.com
-- 😄 Passionate about Human Centric Design
+- 😄 Passionate about 3D printed designs and learning ideas of robotics systems that complete human centric tasks.
 - 🌍 Language: English and Chinese
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/helenwanghh">LinkedIn</a>
