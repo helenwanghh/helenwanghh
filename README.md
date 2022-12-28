@@ -15,6 +15,7 @@
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/helenwanghh">LinkedIn</a>
 
+<img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 
 
 ---
