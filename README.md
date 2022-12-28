@@ -13,10 +13,10 @@
 - 😄 Passionate about Human Centric Design
 - 🌍 Language: English and Chinese
 #### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="linkedin.com/in/helenwanghh">LinkedIn</a>
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/helenwanghh">LinkedIn</a>
 
 
 
 ---
 
-⭐️ From [Helen Wang](github.com/helenwanghh)
+⭐️ From [Helen Wang](https://github.com/helenwanghh)
