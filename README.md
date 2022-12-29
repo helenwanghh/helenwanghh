@@ -1,7 +1,7 @@
 ### Hello there! 👋
 ---
 
-#### I'm a mechanical engineering student in Burlington, Vermont.
+#### I'm a mechanical engineering student at University of Vermont.
 
 - 🏢 I'm currently working full-time as a co-op intern at **Husky Technologies**
 - 💜 Interests: 3D Printing, CAD Design, Arduino Projects, Robotics
