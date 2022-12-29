@@ -1,4 +1,4 @@
-### Hello, I'm Helen Wang 👋
+### Hello there! 👋
 ---
 
 #### I'm a mechanical engineering student in Burlington, Vermont.
