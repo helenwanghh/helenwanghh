@@ -6,7 +6,7 @@
 - 🏢 I'm currently working full-time as a co-op intern at **Husky Technologies**
 - 💜 Interests: 3D Printing, CAD Design, Arduino Projects, Robotics
 - ⚙️ I use `Python(Jupyter Notebook)`,`Arduino IDE`,`MATLAB`,`G.code`
-- 💅 Active community member of: **Generator Makerspace (January-July 2023)**
+- 💅 Active member of: **Generator Makerspace (January-July 2023)**
 - 🌱 Learning more about and studying: **Injection Molding, Robotics Algorithm, Quantum Dots Related Study**
 - 💬 Ping me about: **engineering design**, **women in STEM**, 
 - 📫 Reach me asap: wanghaohui4@gmail.com
