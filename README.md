@@ -8,7 +8,7 @@
 - ⚙️ I use `Python(Jupyter Notebook)`,`Arduino IDE`,`MATLAB`,`G.code`
 - 💅 Active member of: **Generator Makerspace (January-July 2023)**
 - 🌱 Learning more about and studying: **Robotics Design&Control, C++, Quantum Dots Related Studies**
-- 💬 Ping me about: **engineering design**, **women in STEM**, 
+- 💬 Ping me about: **mechanical design**, **women in STEM**, 
 - 📫 Reach me asap: wanghaohui4@gmail.com
 - 😄 Passionate about 3D printed designs and learning ideas of robotics systems that complete human centric tasks.
 - 🌍 Language: English and Chinese
