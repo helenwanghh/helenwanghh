@@ -3,11 +3,11 @@
 
 #### I'm a mechanical engineering student at University of Vermont.
 
-- 🏢 I'm currently working full-time as a co-op intern at **Husky Technologies**
+- 🏢 I'm currently working full-time as a co-op intern at **Husky Technologies | Injection Molding Systems **
 - 💜 Interests: 3D Printing, CAD Design, Arduino Projects, Robotics
 - ⚙️ I use `Python(Jupyter Notebook)`,`Arduino IDE`,`MATLAB`,`G.code`
 - 💅 Active member of: **Generator Makerspace (January-July 2023)**
-- 🌱 Learning more about and studying: **Injection Molding, Robotics Algorithm, Quantum Dots Related Studies**
+- 🌱 Learning more about and studying: **Robotics Design and Algorithms, C++, Quantum Dots Related Studies**
 - 💬 Ping me about: **engineering design**, **women in STEM**, 
 - 📫 Reach me asap: wanghaohui4@gmail.com
 - 😄 Passionate about 3D printed designs and learning ideas of robotics systems that complete human centric tasks.
