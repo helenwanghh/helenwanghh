@@ -10,7 +10,7 @@
 - 💅 Active member of: **Generator Makerspace (January-July 2023)**
 - 💬 Ping me about: **mechanical design**, **3D printing**,**women in STEM**, 
 - 📫 Reach me asap: wanghaohui4@gmail.com
-- 😄 Passionate about 3D printed designs and learning ideas of robotics systems that complete human centric tasks.
+- 😄 Passionate about making 3D printed designs and learning about robotics systems that complete human centric tasks.
 - 🌍 Language: English and Chinese
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/helenwanghh">LinkedIn</a>
