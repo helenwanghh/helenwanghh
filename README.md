@@ -4,7 +4,7 @@
 #### I'm a mechanical engineering student at University of Vermont.
 
 - 🏢 I'm currently working full-time as a co-op intern at **Husky Technologies | Injection Molding Systems**
-- 💜 Interests: **3D Printing, CAD Design, Arduino Projects, Robotics, Renewable Energy, Aviation**
+- 💜 Interests: **3D Printing, CAD Design, Arduino Projects, Aviation, Robotics, Renewable Energy**
 - ⚙️ I use `Python`,`Arduino IDE`,`MATLAB`,`G.code`
 - 🌱 Learning more about and studying: **C++, Control related studies, Aviation Industry related studies**
 - 💅 Active member of: **Generator Makerspace (January-July 2023)**
