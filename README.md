@@ -3,7 +3,7 @@
 
 #### I'm a mechanical engineering student at University of Vermont.
 
-CHECK OUT MY ENGINEERING PORTFOLIO: <a href="https://drive.google.com/file/d/1hvMPfp3_KiPUpTk5rj-j1E68fjHag3Qv/view?usp=sharing">Helen's Engineering Portfolio</a>
+🤩CHECK OUT MY ENGINEERING PORTFOLIO: <a href="https://drive.google.com/file/d/1hvMPfp3_KiPUpTk5rj-j1E68fjHag3Qv/view?usp=sharing">Helen's Engineering Portfolio</a>
 
 - 🏢 I'm currently working full-time as a co-op intern at **Husky Technologies | Injection Molding Systems**
 - 💜 Interests: **3D Printing, CAD Design, Arduino Projects, Aviation, Robotics, Renewable Energy**
