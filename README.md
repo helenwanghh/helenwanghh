@@ -15,7 +15,7 @@
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/helenwanghh">LinkedIn</a>
 
-
+CHECK OUT MY ENGINEERING PORTFOLIO: <a href="https://drive.google.com/file/d/1hvMPfp3_KiPUpTk5rj-j1E68fjHag3Qv/view?usp=sharing">Helen's Engineering Portfolio</a>
 
 
 <img align="center" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
