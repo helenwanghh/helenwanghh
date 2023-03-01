@@ -22,7 +22,7 @@
 <img align="center" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 
 
-
+Yeehaw :)
 ---
 
 ⭐️ From [Helen Wang](https://github.com/helenwanghh)
