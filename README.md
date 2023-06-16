@@ -1,11 +1,11 @@
 ### Hello there! 👋
 ---
 
-#### I'm a mechanical engineering student at University of Vermont.
+#### I graduated from University of Vermont with mechanical engineering degree, and will be pursuing my Master's degree at Carnegie Mellon University! :) 
 
 🤩CHECK OUT MY ENGINEERING PORTFOLIO: <a href="https://drive.google.com/file/d/1hvMPfp3_KiPUpTk5rj-j1E68fjHag3Qv/view?usp=sharing">Helen's Engineering Portfolio</a>
 
-- 🏢 I'm currently working full-time as a co-op intern at **Husky Technologies | Injection Molding Systems**
+- 🏢 Intern at **BETA Technologies | Electric Aviation**. Worked as co-op at **Husky Technologies | Injection Molding Systems** 2022-2023
 - 💜 Interests: **3D Printing, CAD Design, Arduino Projects, Aviation, Robotics, Renewable Energy**
 - ⚙️ I use `Python`,`Arduino IDE`,`MATLAB`,`G.code`
 - 🌱 Learning more about and studying: **C++, Electromechanical engineering related, Aviation Industry related studies**
