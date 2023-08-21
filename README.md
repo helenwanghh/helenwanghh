@@ -1,7 +1,7 @@
 ### Hello there! 👋
 ---
 
-#### I graduated from University of Vermont with mechanical engineering degree, and will be pursuing my Master's degree at Carnegie Mellon University! Looking into join the research and contribute to cutting-edge research in Robotics! :) 
+#### I graduated from University of Vermont with mechanical engineering degree, and will be pursuing my Master's degree at Carnegie Mellon University! Looking into join the research lab and contribute to cutting-edge research in Robotics! :) 
 
 🤩CHECK OUT MY ENGINEERING PORTFOLIO: <a href="https://drive.google.com/file/d/1hvMPfp3_KiPUpTk5rj-j1E68fjHag3Qv/view?usp=sharing">Helen's Engineering Portfolio</a>
 
