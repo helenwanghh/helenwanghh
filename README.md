@@ -1,12 +1,12 @@
 ### Hello there! 👋
 ---
 
-#### I graduated from University of Vermont with mechanical engineering degree, and will be pursuing my Master's degree at Carnegie Mellon University! Looking into join the research lab and contribute to cutting-edge research in Robotics! :) 
+#### I'm getting my Master's degree in Mechanical engineering and concentration in Robotics and Control Systems at Carnegie Mellon University! Currently I am graduate student research at Airlab working on aerial roboitcs. 
 
 🤩CHECK OUT MY ENGINEERING PORTFOLIO: <a href="https://drive.google.com/file/d/1hvMPfp3_KiPUpTk5rj-j1E68fjHag3Qv/view?usp=sharing">Helen's Engineering Portfolio</a>
 
 - 🏢 Intern at **BETA Technologies | Electric Aviation**. Worked as co-op at **Husky Technologies | Injection Molding Systems** 2022-2023
-- 💜 Interests: **3D Printing, CAD Design, Arduino Projects, Aviation, Robotics, Renewable Energy**
+- 💜 Interests: **3D Printing, CAD Design, Arduino Projects, Aviation, Robotics**
 - ⚙️ I use `Python`,`Arduino IDE`,`MATLAB`,`G.code`
 - 🌱 Learning more about and studying: **C++, Electromechanical engineering related, Aviation Industry related studies**
 - 💅 Active member of: **Generator Makerspace (January-July 2023)**
