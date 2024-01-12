@@ -3,7 +3,7 @@
 
 #### I'm getting my Master's degree in Mechanical engineering with concentration in Robotics and Control Systems at Carnegie Mellon University! Currently I am graduate student researcher at Airlab working on aerial robotics. 
 
-🤩CHECK OUT MY ENGINEERING PORTFOLIO: <a href="https://drive.google.com/file/d/1hvMPfp3_KiPUpTk5rj-j1E68fjHag3Qv/view?usp=sharing">Helen's Engineering Portfolio</a>
+🤩CHECK OUT MY ENGINEERING PORTFOLIO: <a href="https://helenwanghh.github.io/">Helen's Engineering Portfolio</a>
 
 - 🏢 Intern at **BETA Technologies | Electric Aviation**. Worked as co-op at **Husky Technologies | Injection Molding Systems** 2022-2023
 - 💜 Interests: **3D Printing, CAD Design, Arduino Projects, Aviation, Robotics**
