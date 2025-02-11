@@ -7,12 +7,12 @@
 
 - EXPLORING HAPTICS PRODUCT DESIGN RIGHT NOW :D
 - 🏢 Intern at **Tesla, Inc.**. Previously interned at **BETA Technologies | Electric Aviation**. Worked as co-op at **Husky Technologies | Injection Molding Systems** 2022-2023
-- 💜 Interests: **3D Printing, CAD Design, Arduino Projects, Aviation, Robotics**
+- 💜 Interests: **Product Design, Haptics, 3D Printing, CAD, Arduino Projects, Aviation, Robotics, EVs**
 - ⚙️ I use `Python`,`Arduino IDE`,`MATLAB`,`G.code`
-- 🌱 Learning more about and studying: **C++, Electromechanical engineering related, Aviation Industry related studies**
+- 🌱 Learning more about and studying: **C++, control, Computer Vision, Electromechanical, Aviation Industry related studies**
 - 💅 Active member of: **Generator Makerspace (January-July 2023)**
-- 💬 Ping me about: **mechanical design**, **3D printing**, **women in STEM**, 
-- 📫 Reach me asap: wanghaohui4@gmail.com
+- 💬 Ping me about: **mechanical design**, **robotics**, **women in STEM**, 
+- 📫 Reach me asap: helenwanghhh@gmail.com
 - 😄 Passionate about making 3D printed designs and learning about robotics and control systems that complete human-centric tasks.
 
 #### Find me around the web 🌎:
