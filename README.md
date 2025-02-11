@@ -5,6 +5,7 @@
 
 🤩CHECK OUT MY ENGINEERING PORTFOLIO: <a href="https://helenwanghh.github.io/">Helen's Engineering Portfolio</a>
 
+- EXPLORING HAPTICS PRODUCT DESIGN RIGHT NOW :D
 - 🏢 Intern at **Tesla, Inc.**. Previously interned at **BETA Technologies | Electric Aviation**. Worked as co-op at **Husky Technologies | Injection Molding Systems** 2022-2023
 - 💜 Interests: **3D Printing, CAD Design, Arduino Projects, Aviation, Robotics**
 - ⚙️ I use `Python`,`Arduino IDE`,`MATLAB`,`G.code`
