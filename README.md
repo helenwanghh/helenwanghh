@@ -1,7 +1,7 @@
 ### Hello there! 👋
 ---
 
-#### I'm getting my Master's degree in Mechanical engineering at Carnegie Mellon University! 
+#### I'm getting my Master's degree in Mechanical engineering at Carnegie Mellon University (May 2025)!  
 
 🤩CHECK OUT MY ENGINEERING PORTFOLIO: <a href="https://helenwanghh.github.io/">Helen's Engineering Portfolio</a>
 
